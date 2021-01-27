@@ -1,6 +1,5 @@
 adal==1.2.6
 anyio==2.0.2
-argon2-cffi @ file:///D:/bld/argon2-cffi_1605217273648/work
 async-generator==1.10
 attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1605083924122/work
 azure-cognitiveservices-search-imagesearch==2.0.0
