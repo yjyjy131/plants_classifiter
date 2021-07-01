@@ -5,7 +5,8 @@ https://hub-binder.mybinder.ovh/user/yjyjy131-plants_classifiter-zw55jupw/voila/
 * It will take some time to load the complete web page.
 * Deployed jupyter notebook by using Voila
 
-![pronoun_score](./img/web_result.png)
+
+<img src="./img/web_result.png" width="400" height="300">
 
 
 ## Details about this project 
