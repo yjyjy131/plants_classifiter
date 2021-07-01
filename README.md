@@ -1,6 +1,7 @@
 # People space 2021 AI course
 ## Plants_classifier - Cactus vs Succulent vs Tree Classifier
-### Deploy-URL : https://hub-binder.mybinder.ovh/user/yjyjy131-plants_classifiter-zw55jupw/voila/render/plants_classifier.ipynb
+### Deploy-URL 
+https://hub-binder.mybinder.ovh/user/yjyjy131-plants_classifiter-zw55jupw/voila/render/plants_classifier.ipynb
 * It will take some time to load the complete web page.
 
 #### You can also access the voliad web through 
